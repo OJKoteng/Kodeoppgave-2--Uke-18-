@@ -8,3 +8,14 @@ display: flex;
 justify-content: flex-end;
 width: 100%;
 }
+
+.image {
+display: flex;
+justify-content: flex-end;
+width: 100%;
+}
+
+.bunnen {
+display: flex;
+justify-content:space-evenly;
+}
