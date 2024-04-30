@@ -1,3 +1,19 @@
+body {
+background-color: blue;
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button {
+background-color: rgb(0, 106, 255);
+display: inline-block;
+border-radius: 10px;
+color: white;
+padding: 10px 20px;
+font-size: medium;
+cursor: pointer;
+}
+
 .head1 {
 display: flex;
 justify-content: flex-start;
