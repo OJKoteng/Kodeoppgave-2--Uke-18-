@@ -14,18 +14,13 @@ font-size: medium;
 cursor: pointer;
 }
 
-.head3 {background-color: rgb(41, 101, 255);
+.nav {
+display: flex;
+justify-content: space-between;
+align-items: flex-end;
 }
 
-.head1 {
-display: flex;
-justify-content: flex-start;
-}
-
-.head2 {
-display: flex;
-justify-content: flex-end;
-width: 100%;
+.head {background-color: rgb(41, 101, 255);
 }
 
 .image {
