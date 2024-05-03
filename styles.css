@@ -34,9 +34,13 @@ display: flex;
 justify-content:space-between;
 background-color: rgb(60, 167, 249);
 height: 100vh;
+gap: 20px;
+padding: 20px;
 }
 
 .sec {
 background-color: blue;
 height: 20vh;
+text-align: center;
+padding: 10px 20px;
 }
